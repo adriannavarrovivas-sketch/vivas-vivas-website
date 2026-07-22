@@ -1,0 +1,15 @@
+# Vivas & Vivas Law Office — caching rules
+# HTML: always revalidate so site updates appear immediately (no CDN purge needed).
+# Static assets: cached long; bump the ?v= query in the HTML when a file changes.
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(html)$">
+    Header set Cache-Control "no-cache, must-revalidate, max-age=0, s-maxage=0"
+  </FilesMatch>
+  <FilesMatch "\.(css|js|jpg|jpeg|png|gif|svg|webp|ico|woff2?)$">
+    Header set Cache-Control "public, max-age=604800"
+  </FilesMatch>
+</IfModule>
+
+# Ensure the homepage is served for the root URL
+DirectoryIndex index.html

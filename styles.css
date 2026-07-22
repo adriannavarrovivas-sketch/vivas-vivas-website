@@ -225,7 +225,7 @@ img { max-width: 100%; display: block; }
   border-radius: 3px;
 }
 .attorney-photo {
-  flex: 0 0 88px; height: 88px;
+  flex: 0 0 88px; width: 88px; height: 88px;
   display: grid; place-items: center;
   background: var(--navy); color: var(--gold-soft);
   font-family: var(--serif); font-weight: 700; font-size: 1.5rem;
@@ -268,7 +268,7 @@ img { max-width: 100%; display: block; }
   padding-bottom: 1.8rem; margin-bottom: 1.8rem;
   border-bottom: 2px solid var(--gold);
 }
-.attorney-photo.xl { flex: 0 0 132px; height: 132px; font-size: 2.2rem; }
+.attorney-photo.xl { flex: 0 0 132px; width: 132px; height: 132px; font-size: 2.2rem; }
 .profile-header h2 { font-size: clamp(1.7rem, 3.5vw, 2.3rem); }
 .profile-header .attorney-role { margin: 0.3rem 0 0.6rem; }
 .profile-body .lead { font-size: 1.12rem; color: var(--ink); }
@@ -293,7 +293,7 @@ img { max-width: 100%; display: block; }
   margin-bottom: 2rem;
 }
 .attorney-featured-head { display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1.5rem; }
-.attorney-photo.lg { flex: 0 0 96px; height: 96px; font-size: 1.6rem; }
+.attorney-photo.lg { flex: 0 0 96px; width: 96px; height: 96px; font-size: 1.6rem; }
 .attorney-featured h3 { font-size: 1.7rem; }
 .attorney-featured .attorney-bio { font-size: 1.05rem; max-width: 70ch; }
 .cred-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin-top: 2rem; padding-top: 1.8rem; border-top: 1px solid var(--line); }
@@ -372,6 +372,6 @@ img { max-width: 100%; display: block; }
   .attorney-featured-head { flex-direction: column; text-align: center; }
 }
 @media (max-width: 520px) {
-  .attorney { flex-direction: column; }
+  .attorney { flex-direction: column; align-items: center; text-align: center; }
   .hero { padding: 4.5rem 0 5rem; }
 }
