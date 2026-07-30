@@ -7,12 +7,29 @@
 - [About Us](https://advlawandconsulting.com/about.html): Full attorney profiles and firm background.
 
 ## Practice Areas
-- Civil Litigation — disputes, collection, damages, property, enforcement of rights before trial and appellate courts.
-- Family Law — declaration of nullity and annulment of marriage, legal separation, custody, and support.
-- Criminal Litigation — defense and prosecution support at every stage of criminal proceedings.
-- Banking & Regulatory — banking, financial regulation, and supervisory matters.
-- Corporate & Commercial — commercial and financial disputes, corporate and real-estate matters, contracts, due diligence.
-- Forensic Accounting & Fraud — forensic accounting support and financial investigations, led by a CPA-lawyer.
+- [Civil Litigation](https://advlawandconsulting.com/civil-litigation.html) — disputes, collection of sum of money, damages, breach of contract, property disputes, ejectment, and appeals before trial and appellate courts.
+- [Family Law](https://advlawandconsulting.com/family-law.html) — declaration of nullity and annulment of marriage, legal separation, custody, support, recognition of foreign divorce, and protection orders (RA 9262).
+- [Criminal Litigation](https://advlawandconsulting.com/criminal-litigation.html) — defense and private prosecution at every stage: inquest, preliminary investigation, bail, trial, and appeal; includes financial and economic crimes.
+- [Banking & Regulatory](https://advlawandconsulting.com/banking-regulatory.html) — BSP supervisory and examination matters, regulatory compliance, AMLA, banking disputes, and rural/thrift bank counsel, led by a former BSP Chief Examiner.
+- [Corporate & Commercial](https://advlawandconsulting.com/corporate-commercial.html) — incorporation and compliance, legal retainers, contracts, commercial disputes, real estate, due diligence, AMLC and PCAB registration.
+- [Forensic Accounting & Fraud](https://advlawandconsulting.com/forensic-accounting.html) — fraud investigation, asset tracing, damages quantification, and litigation support, led by a CPA-lawyer and published author on financial misconduct.
+
+## Services
+- [Annulment & Declaration of Nullity](https://advlawandconsulting.com/annulment.html) — void vs voidable marriages, psychological incapacity (Art. 36), process and effects.
+- [Legal Separation](https://advlawandconsulting.com/legal-separation.html) — grounds under Art. 55, effects on property and the marriage bond.
+- [Recognition of Foreign Divorce](https://advlawandconsulting.com/foreign-divorce-recognition.html) — judicial recognition under Art. 26(2), PSA annotation, capacity to remarry.
+- [Child Custody](https://advlawandconsulting.com/child-custody.html) — best interest of the child, tender-age presumption, habeas corpus, visitation.
+- [Child & Spousal Support](https://advlawandconsulting.com/child-support.html) — fixing, increasing, and enforcing support; support pendente lite.
+- [VAWC & Protection Orders](https://advlawandconsulting.com/vawc-protection-order.html) — RA 9262 BPO/TPO/PPO proceedings for petitioners and respondents.
+- [Debt Collection & Sum of Money](https://advlawandconsulting.com/debt-collection.html) — demand letters, small claims, collection suits, attachment, execution.
+- [Breach of Contract](https://advlawandconsulting.com/breach-of-contract.html) — specific performance, rescission, and damages.
+- [Ejectment](https://advlawandconsulting.com/ejectment.html) — unlawful detainer and forcible entry, for owners and tenants.
+- [Property Disputes](https://advlawandconsulting.com/property-disputes.html) — recovery of ownership, quieting of title, partition, annulment of title.
+- [Estafa (Swindling)](https://advlawandconsulting.com/estafa.html) — Art. 315 RPC defense and private prosecution.
+- [BP 22 (Bouncing Checks)](https://advlawandconsulting.com/bp22.html) — defense and collection in bouncing-check cases.
+- [Business Registration & Incorporation](https://advlawandconsulting.com/business-registration.html) — SEC/DTI registration, OPCs, BIR and LGU permits, post-registration compliance.
+- [PCAB Registration](https://advlawandconsulting.com/pcab-registration.html) — contractor licensing under RA 4566.
+- [AMLC Registration & AMLA Compliance](https://advlawandconsulting.com/amlc-registration.html) — covered-person registration, CTR/STR reporting, compliance programs.
 
 ## Attorneys
 - Atty. Alfeo D. Vivas, CPA — Founding & Managing Partner. Lawyer and Certified Public Accountant with 40+ years across litigation, banking, regulation, and forensic accounting.
