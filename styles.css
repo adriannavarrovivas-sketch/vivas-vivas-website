@@ -10,7 +10,7 @@
   --paper: #ffffff;
   --cream: #f7f5f0;
   --serif: "Cormorant Garamond", Georgia, "Times New Roman", serif;
-  --sans: "Source Sans 3", system-ui, -apple-system, Segoe UI, sans-serif;
+  --sans: "Fira Sans", system-ui, -apple-system, Segoe UI, sans-serif;
   --wrap: 1140px;
   --shadow: 0 18px 40px -24px rgba(20, 33, 61, 0.35);
 }
